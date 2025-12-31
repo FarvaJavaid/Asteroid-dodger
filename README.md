@@ -2,6 +2,8 @@
 
 A simple Python arcade game built with Pygame.
 
+![IngameScreenshot] (Img/gamescreen.png)
+
 ## How to Run
 ```bash
 pip install -r requirements.txt
