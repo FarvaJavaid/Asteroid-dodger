@@ -1,0 +1,8 @@
+pygame
+
+Game Rules
+•	You control a spaceship
+•	Asteroids fall from the top
+•	Dodge them
+•	Score increases over time
+•	Game ends on collision
